@@ -1,10 +1,10 @@
 {
   "personal": {
-    "name": "Zachary Villarreal",
-    "first_name": "Zachary",
-    "email": "zpvillarreal@gmail.com​",
-    "location": "San Diego County, California, United States",
-    "phone": "+ (818) 879-3377"
+    "name": "Tizelia Norville",
+    "first_name": "Tizelia",
+    "email": "tizelianorville@outlook.com​",
+    "location": "Cole's Cave, St. Lucy, Barbados",
+    "phone": "+1 (246) 8294933"
   },
   "professional": {
     "title_1": "Data Analyst",
@@ -12,20 +12,20 @@
     "techs": "NumPy, Pandas, Matplotlib, Seaborn, OpenCV, Dash, Flask, Keras, Tensorflow, SciPy, Scikit-learn, SpaCy, AWS (EC2), Unix.",
     "main_self_introduction": "I am a data scientist drawn to using data science to help further technological advancements while utilizing past work experience to establish a unique perspective when assessing data-driven solutions. Before becoming a data scientist, I worked in the scientific research industry.",
     "top_skills": [
-      { "percentage": 90, "skill": "Python" },
-      { "percentage": 85, "skill": "SQL" },
-      { "percentage": 85, "skill": "Data visualization" },
-      { "percentage": 80, "skill": "Machine learning" },
-      { "percentage": 80, "skill": "Deep learning" },
-      { "percentage": 75, "skill": "Dashboard building" }
+      { "percentage": 90, "skill": "HTML" },
+      { "percentage": 90, "skill": "CSS" },
+      { "percentage": 75, "skill": "Javascript" },
+      { "percentage": 50, "skill": "C++" },
+      { "percentage": 80, "skill": "Wireframe building" },
+      { "percentage": 75, "skill": "Microsoft Office" }
     ],
     "languages": [
       { "percentage": 100, "lang": "English" },
-      { "percentage": 100, "lang": "Spanish" }
+      { "percentage": 40, "lang": "Spanish" }
     ],
     "links": {
-      "github": "https://github.com/ZacharyVillarreal/",
-      "linkedin": "https://www.linkedin.com/in/zachary-p-villarreal/"
+      "github": "https://github.com/Zeliapooh",
+      "linkedin": "https://www.linkedin.com/in/tizelia-norville-3535bb201/"
     },
     "projects": [
       {
